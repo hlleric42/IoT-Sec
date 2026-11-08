@@ -1,5 +1,3 @@
-# GitHub Actions: po kazdym "git push" GitHub sam instaluje biblioteki
-# i uruchamia testy. Zielony znaczek = kod dziala.
 name: testy
 
 on:
